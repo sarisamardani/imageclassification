@@ -1,0 +1,336 @@
+Epoch [ 1/ 7], Batch [ 10/481], Loss: 1.1135, Accuracy: 0.5188
+Epoch [ 1/ 7], Batch [ 20/481], Loss: 1.1621, Accuracy: 0.5250
+Epoch [ 1/ 7], Batch [ 30/481], Loss: 1.0830, Accuracy: 0.5146
+Epoch [ 1/ 7], Batch [ 40/481], Loss: 0.7528, Accuracy: 0.5266
+Epoch [ 1/ 7], Batch [ 50/481], Loss: 0.8198, Accuracy: 0.5200
+Epoch [ 1/ 7], Batch [ 60/481], Loss: 0.5997, Accuracy: 0.5250
+Epoch [ 1/ 7], Batch [ 70/481], Loss: 0.6510, Accuracy: 0.5268
+Epoch [ 1/ 7], Batch [ 80/481], Loss: 0.7809, Accuracy: 0.5219
+Epoch [ 1/ 7], Batch [ 90/481], Loss: 0.6917, Accuracy: 0.5167
+Epoch [ 1/ 7], Batch [100/481], Loss: 0.9099, Accuracy: 0.5144
+Epoch [ 1/ 7], Batch [110/481], Loss: 0.5294, Accuracy: 0.5188
+Epoch [ 1/ 7], Batch [120/481], Loss: 0.7789, Accuracy: 0.5177
+Epoch [ 1/ 7], Batch [130/481], Loss: 0.6752, Accuracy: 0.5183
+Epoch [ 1/ 7], Batch [140/481], Loss: 0.7406, Accuracy: 0.5147
+Epoch [ 1/ 7], Batch [150/481], Loss: 1.7604, Accuracy: 0.5175
+Epoch [ 1/ 7], Batch [160/481], Loss: 0.6590, Accuracy: 0.5180
+Epoch [ 1/ 7], Batch [170/481], Loss: 1.5230, Accuracy: 0.5140
+Epoch [ 1/ 7], Batch [180/481], Loss: 0.8471, Accuracy: 0.5142
+Epoch [ 1/ 7], Batch [190/481], Loss: 0.8272, Accuracy: 0.5148
+Epoch [ 1/ 7], Batch [200/481], Loss: 1.0653, Accuracy: 0.5153
+Epoch [ 1/ 7], Batch [210/481], Loss: 0.9857, Accuracy: 0.5152
+Epoch [ 1/ 7], Batch [220/481], Loss: 0.5866, Accuracy: 0.5145
+Epoch [ 1/ 7], Batch [230/481], Loss: 0.6869, Accuracy: 0.5141
+Epoch [ 1/ 7], Batch [240/481], Loss: 1.0900, Accuracy: 0.5151
+Epoch [ 1/ 7], Batch [250/481], Loss: 0.8042, Accuracy: 0.5152
+Epoch [ 1/ 7], Batch [260/481], Loss: 0.6697, Accuracy: 0.5180
+Epoch [ 1/ 7], Batch [270/481], Loss: 0.9472, Accuracy: 0.5208
+Epoch [ 1/ 7], Batch [280/481], Loss: 1.0917, Accuracy: 0.5201
+Epoch [ 1/ 7], Batch [290/481], Loss: 0.9027, Accuracy: 0.5190
+Epoch [ 1/ 7], Batch [300/481], Loss: 0.6783, Accuracy: 0.5188
+Epoch [ 1/ 7], Batch [310/481], Loss: 1.0293, Accuracy: 0.5183
+Epoch [ 1/ 7], Batch [320/481], Loss: 1.0000, Accuracy: 0.5189
+Epoch [ 1/ 7], Batch [330/481], Loss: 0.7450, Accuracy: 0.5203
+Epoch [ 1/ 7], Batch [340/481], Loss: 1.0498, Accuracy: 0.5219
+Epoch [ 1/ 7], Batch [350/481], Loss: 1.0806, Accuracy: 0.5221
+Epoch [ 1/ 7], Batch [360/481], Loss: 0.6398, Accuracy: 0.5226
+Epoch [ 1/ 7], Batch [370/481], Loss: 1.8630, Accuracy: 0.5228
+Epoch [ 1/ 7], Batch [380/481], Loss: 0.8813, Accuracy: 0.5235
+Epoch [ 1/ 7], Batch [390/481], Loss: 0.7991, Accuracy: 0.5247
+Epoch [ 1/ 7], Batch [400/481], Loss: 0.4642, Accuracy: 0.5250
+Epoch [ 1/ 7], Batch [410/481], Loss: 0.7034, Accuracy: 0.5271
+Epoch [ 1/ 7], Batch [420/481], Loss: 0.4276, Accuracy: 0.5269
+Epoch [ 1/ 7], Batch [430/481], Loss: 0.6885, Accuracy: 0.5267
+Epoch [ 1/ 7], Batch [440/481], Loss: 1.0896, Accuracy: 0.5259
+Epoch [ 1/ 7], Batch [450/481], Loss: 0.6378, Accuracy: 0.5271
+Epoch [ 1/ 7], Batch [460/481], Loss: 0.8782, Accuracy: 0.5273
+Epoch [ 1/ 7], Batch [470/481], Loss: 0.6145, Accuracy: 0.5270
+Epoch [ 1/ 7], Batch [480/481], Loss: 0.8197, Accuracy: 0.5264
+Epoch [ 2/ 7], Batch [ 10/481], Loss: 0.7500, Accuracy: 0.6062
+Epoch [ 2/ 7], Batch [ 20/481], Loss: 0.5967, Accuracy: 0.5656
+Epoch [ 2/ 7], Batch [ 30/481], Loss: 0.9576, Accuracy: 0.5542
+Epoch [ 2/ 7], Batch [ 40/481], Loss: 1.5075, Accuracy: 0.5516
+Epoch [ 2/ 7], Batch [ 50/481], Loss: 0.7524, Accuracy: 0.5513
+Epoch [ 2/ 7], Batch [ 60/481], Loss: 2.0411, Accuracy: 0.5729
+Epoch [ 2/ 7], Batch [ 70/481], Loss: 0.6722, Accuracy: 0.5768
+Epoch [ 2/ 7], Batch [ 80/481], Loss: 0.4798, Accuracy: 0.5891
+Epoch [ 2/ 7], Batch [ 90/481], Loss: 0.5947, Accuracy: 0.6069
+Epoch [ 2/ 7], Batch [100/481], Loss: 0.7487, Accuracy: 0.6100
+Epoch [ 2/ 7], Batch [110/481], Loss: 0.4871, Accuracy: 0.6193
+Epoch [ 2/ 7], Batch [120/481], Loss: 0.9307, Accuracy: 0.6260
+Epoch [ 2/ 7], Batch [130/481], Loss: 0.7660, Accuracy: 0.6317
+Epoch [ 2/ 7], Batch [140/481], Loss: 0.9212, Accuracy: 0.6366
+Epoch [ 2/ 7], Batch [150/481], Loss: 0.5064, Accuracy: 0.6396
+Epoch [ 2/ 7], Batch [160/481], Loss: 0.4602, Accuracy: 0.6434
+Epoch [ 2/ 7], Batch [170/481], Loss: 0.7741, Accuracy: 0.6489
+Epoch [ 2/ 7], Batch [180/481], Loss: 0.4653, Accuracy: 0.6517
+Epoch [ 2/ 7], Batch [190/481], Loss: 0.3475, Accuracy: 0.6546
+Epoch [ 2/ 7], Batch [200/481], Loss: 0.4228, Accuracy: 0.6566
+Epoch [ 2/ 7], Batch [210/481], Loss: 0.9023, Accuracy: 0.6577
+Epoch [ 2/ 7], Batch [220/481], Loss: 0.7921, Accuracy: 0.6571
+Epoch [ 2/ 7], Batch [230/481], Loss: 0.7379, Accuracy: 0.6592
+Epoch [ 2/ 7], Batch [240/481], Loss: 0.8447, Accuracy: 0.6622
+Epoch [ 2/ 7], Batch [250/481], Loss: 0.6004, Accuracy: 0.6645
+Epoch [ 2/ 7], Batch [260/481], Loss: 0.5826, Accuracy: 0.6673
+Epoch [ 2/ 7], Batch [270/481], Loss: 0.5971, Accuracy: 0.6690
+Epoch [ 2/ 7], Batch [280/481], Loss: 0.5749, Accuracy: 0.6710
+Epoch [ 2/ 7], Batch [290/481], Loss: 0.6737, Accuracy: 0.6722
+Epoch [ 2/ 7], Batch [300/481], Loss: 1.0543, Accuracy: 0.6717
+Epoch [ 2/ 7], Batch [310/481], Loss: 1.1396, Accuracy: 0.6714
+Epoch [ 2/ 7], Batch [320/481], Loss: 1.2332, Accuracy: 0.6713
+Epoch [ 2/ 7], Batch [330/481], Loss: 1.0462, Accuracy: 0.6695
+Epoch [ 2/ 7], Batch [340/481], Loss: 0.8662, Accuracy: 0.6697
+Epoch [ 2/ 7], Batch [350/481], Loss: 0.9896, Accuracy: 0.6691
+Epoch [ 2/ 7], Batch [360/481], Loss: 0.5660, Accuracy: 0.6686
+Epoch [ 2/ 7], Batch [370/481], Loss: 2.0205, Accuracy: 0.6677
+Epoch [ 2/ 7], Batch [380/481], Loss: 1.3417, Accuracy: 0.6679
+Epoch [ 2/ 7], Batch [390/481], Loss: 1.9290, Accuracy: 0.6681
+Epoch [ 2/ 7], Batch [400/481], Loss: 1.8765, Accuracy: 0.6656
+Epoch [ 2/ 7], Batch [410/481], Loss: 0.7841, Accuracy: 0.6648
+Epoch [ 2/ 7], Batch [420/481], Loss: 0.5698, Accuracy: 0.6649
+Epoch [ 2/ 7], Batch [430/481], Loss: 0.8263, Accuracy: 0.6648
+Epoch [ 2/ 7], Batch [440/481], Loss: 1.4273, Accuracy: 0.6639
+Epoch [ 2/ 7], Batch [450/481], Loss: 1.4671, Accuracy: 0.6640
+Epoch [ 2/ 7], Batch [460/481], Loss: 1.1247, Accuracy: 0.6652
+Epoch [ 2/ 7], Batch [470/481], Loss: 0.7794, Accuracy: 0.6652
+Epoch [ 2/ 7], Batch [480/481], Loss: 0.6078, Accuracy: 0.6667
+Epoch [ 3/ 7], Batch [ 10/481], Loss: 0.3516, Accuracy: 0.7375
+Epoch [ 3/ 7], Batch [ 20/481], Loss: 0.4395, Accuracy: 0.7250
+Epoch [ 3/ 7], Batch [ 30/481], Loss: 1.1367, Accuracy: 0.7083
+Epoch [ 3/ 7], Batch [ 40/481], Loss: 1.0770, Accuracy: 0.7016
+Epoch [ 3/ 7], Batch [ 50/481], Loss: 0.6185, Accuracy: 0.6800
+Epoch [ 3/ 7], Batch [ 60/481], Loss: 0.5856, Accuracy: 0.6792
+Epoch [ 3/ 7], Batch [ 70/481], Loss: 0.6519, Accuracy: 0.6813
+Epoch [ 3/ 7], Batch [ 80/481], Loss: 0.3934, Accuracy: 0.6969
+Epoch [ 3/ 7], Batch [ 90/481], Loss: 0.3606, Accuracy: 0.7118
+Epoch [ 3/ 7], Batch [100/481], Loss: 0.3440, Accuracy: 0.7125
+Epoch [ 3/ 7], Batch [110/481], Loss: 0.5417, Accuracy: 0.7239
+Epoch [ 3/ 7], Batch [120/481], Loss: 0.3914, Accuracy: 0.7229
+Epoch [ 3/ 7], Batch [130/481], Loss: 0.2764, Accuracy: 0.7236
+Epoch [ 3/ 7], Batch [140/481], Loss: 0.4266, Accuracy: 0.7290
+Epoch [ 3/ 7], Batch [150/481], Loss: 0.4464, Accuracy: 0.7375
+Epoch [ 3/ 7], Batch [160/481], Loss: 0.3555, Accuracy: 0.7406
+Epoch [ 3/ 7], Batch [170/481], Loss: 0.5843, Accuracy: 0.7456
+Epoch [ 3/ 7], Batch [180/481], Loss: 0.3990, Accuracy: 0.7500
+Epoch [ 3/ 7], Batch [190/481], Loss: 0.7466, Accuracy: 0.7556
+Epoch [ 3/ 7], Batch [200/481], Loss: 0.8792, Accuracy: 0.7528
+Epoch [ 3/ 7], Batch [210/481], Loss: 0.6025, Accuracy: 0.7545
+Epoch [ 3/ 7], Batch [220/481], Loss: 0.3510, Accuracy: 0.7580
+Epoch [ 3/ 7], Batch [230/481], Loss: 0.5439, Accuracy: 0.7592
+Epoch [ 3/ 7], Batch [240/481], Loss: 0.4367, Accuracy: 0.7615
+Epoch [ 3/ 7], Batch [250/481], Loss: 0.7019, Accuracy: 0.7610
+Epoch [ 3/ 7], Batch [260/481], Loss: 0.7091, Accuracy: 0.7635
+Epoch [ 3/ 7], Batch [270/481], Loss: 0.4409, Accuracy: 0.7625
+Epoch [ 3/ 7], Batch [280/481], Loss: 0.3609, Accuracy: 0.7632
+Epoch [ 3/ 7], Batch [290/481], Loss: 0.2999, Accuracy: 0.7655
+Epoch [ 3/ 7], Batch [300/481], Loss: 0.4150, Accuracy: 0.7679
+Epoch [ 3/ 7], Batch [310/481], Loss: 0.4785, Accuracy: 0.7706
+Epoch [ 3/ 7], Batch [320/481], Loss: 0.1574, Accuracy: 0.7727
+Epoch [ 3/ 7], Batch [330/481], Loss: 0.3463, Accuracy: 0.7744
+Epoch [ 3/ 7], Batch [340/481], Loss: 0.4977, Accuracy: 0.7774
+Epoch [ 3/ 7], Batch [350/481], Loss: 1.6254, Accuracy: 0.7766
+Epoch [ 3/ 7], Batch [360/481], Loss: 0.5630, Accuracy: 0.7781
+Epoch [ 3/ 7], Batch [370/481], Loss: 0.3486, Accuracy: 0.7794
+Epoch [ 3/ 7], Batch [380/481], Loss: 0.4706, Accuracy: 0.7816
+Epoch [ 3/ 7], Batch [390/481], Loss: 0.4860, Accuracy: 0.7824
+Epoch [ 3/ 7], Batch [400/481], Loss: 0.4398, Accuracy: 0.7812
+Epoch [ 3/ 7], Batch [410/481], Loss: 0.3864, Accuracy: 0.7812
+Epoch [ 3/ 7], Batch [420/481], Loss: 0.3827, Accuracy: 0.7818
+Epoch [ 3/ 7], Batch [430/481], Loss: 0.3213, Accuracy: 0.7815
+Epoch [ 3/ 7], Batch [440/481], Loss: 0.4090, Accuracy: 0.7815
+Epoch [ 3/ 7], Batch [450/481], Loss: 0.6569, Accuracy: 0.7818
+Epoch [ 3/ 7], Batch [460/481], Loss: 1.7674, Accuracy: 0.7812
+Epoch [ 3/ 7], Batch [470/481], Loss: 1.3709, Accuracy: 0.7815
+Epoch [ 3/ 7], Batch [480/481], Loss: 0.6255, Accuracy: 0.7806
+Epoch [ 4/ 7], Batch [ 10/481], Loss: 4.4440, Accuracy: 0.7312
+Epoch [ 4/ 7], Batch [ 20/481], Loss: 0.6306, Accuracy: 0.6844
+Epoch [ 4/ 7], Batch [ 30/481], Loss: 1.1753, Accuracy: 0.6750
+Epoch [ 4/ 7], Batch [ 40/481], Loss: 1.3589, Accuracy: 0.6797
+Epoch [ 4/ 7], Batch [ 50/481], Loss: 0.3811, Accuracy: 0.6975
+Epoch [ 4/ 7], Batch [ 60/481], Loss: 1.7851, Accuracy: 0.7083
+Epoch [ 4/ 7], Batch [ 70/481], Loss: 0.7826, Accuracy: 0.7241
+Epoch [ 4/ 7], Batch [ 80/481], Loss: 0.4750, Accuracy: 0.7336
+Epoch [ 4/ 7], Batch [ 90/481], Loss: 0.4031, Accuracy: 0.7458
+Epoch [ 4/ 7], Batch [100/481], Loss: 0.2814, Accuracy: 0.7431
+Epoch [ 4/ 7], Batch [110/481], Loss: 1.4053, Accuracy: 0.7494
+Epoch [ 4/ 7], Batch [120/481], Loss: 0.9282, Accuracy: 0.7562
+Epoch [ 4/ 7], Batch [130/481], Loss: 1.7184, Accuracy: 0.7630
+Epoch [ 4/ 7], Batch [140/481], Loss: 0.3593, Accuracy: 0.7714
+Epoch [ 4/ 7], Batch [150/481], Loss: 0.2335, Accuracy: 0.7792
+Epoch [ 4/ 7], Batch [160/481], Loss: 0.4042, Accuracy: 0.7820
+Epoch [ 4/ 7], Batch [170/481], Loss: 0.7239, Accuracy: 0.7882
+Epoch [ 4/ 7], Batch [180/481], Loss: 0.2950, Accuracy: 0.7920
+Epoch [ 4/ 7], Batch [190/481], Loss: 0.3704, Accuracy: 0.7921
+Epoch [ 4/ 7], Batch [200/481], Loss: 0.2953, Accuracy: 0.7956
+Epoch [ 4/ 7], Batch [210/481], Loss: 0.3348, Accuracy: 0.7964
+Epoch [ 4/ 7], Batch [220/481], Loss: 0.6703, Accuracy: 0.7983
+Epoch [ 4/ 7], Batch [230/481], Loss: 2.3252, Accuracy: 0.8016
+Epoch [ 4/ 7], Batch [240/481], Loss: 0.4375, Accuracy: 0.8005
+Epoch [ 4/ 7], Batch [250/481], Loss: 0.6760, Accuracy: 0.8015
+Epoch [ 4/ 7], Batch [260/481], Loss: 0.3618, Accuracy: 0.8041
+Epoch [ 4/ 7], Batch [270/481], Loss: 0.1370, Accuracy: 0.8065
+Epoch [ 4/ 7], Batch [280/481], Loss: 0.7088, Accuracy: 0.8078
+Epoch [ 4/ 7], Batch [290/481], Loss: 0.1832, Accuracy: 0.8097
+Epoch [ 4/ 7], Batch [300/481], Loss: 0.3716, Accuracy: 0.8113
+Epoch [ 4/ 7], Batch [310/481], Loss: 1.3627, Accuracy: 0.8119
+Epoch [ 4/ 7], Batch [320/481], Loss: 0.7314, Accuracy: 0.8127
+Epoch [ 4/ 7], Batch [330/481], Loss: 0.1880, Accuracy: 0.8133
+Epoch [ 4/ 7], Batch [340/481], Loss: 0.9991, Accuracy: 0.8142
+Epoch [ 4/ 7], Batch [350/481], Loss: 0.3355, Accuracy: 0.8159
+Epoch [ 4/ 7], Batch [360/481], Loss: 0.1740, Accuracy: 0.8139
+Epoch [ 4/ 7], Batch [370/481], Loss: 2.2393, Accuracy: 0.8132
+Epoch [ 4/ 7], Batch [380/481], Loss: 0.5500, Accuracy: 0.8140
+Epoch [ 4/ 7], Batch [390/481], Loss: 0.7427, Accuracy: 0.8155
+Epoch [ 4/ 7], Batch [400/481], Loss: 0.3398, Accuracy: 0.8166
+Epoch [ 4/ 7], Batch [410/481], Loss: 0.3116, Accuracy: 0.8180
+Epoch [ 4/ 7], Batch [420/481], Loss: 0.4464, Accuracy: 0.8185
+Epoch [ 4/ 7], Batch [430/481], Loss: 0.3155, Accuracy: 0.8199
+Epoch [ 4/ 7], Batch [440/481], Loss: 0.3289, Accuracy: 0.8210
+Epoch [ 4/ 7], Batch [450/481], Loss: 0.3637, Accuracy: 0.8233
+Epoch [ 4/ 7], Batch [460/481], Loss: 0.2771, Accuracy: 0.8251
+Epoch [ 4/ 7], Batch [470/481], Loss: 0.2263, Accuracy: 0.8266
+Epoch [ 4/ 7], Batch [480/481], Loss: 2.8012, Accuracy: 0.8264
+Epoch [ 5/ 7], Batch [ 10/481], Loss: 1.9363, Accuracy: 0.7562
+Epoch [ 5/ 7], Batch [ 20/481], Loss: 0.5484, Accuracy: 0.7594
+Epoch [ 5/ 7], Batch [ 30/481], Loss: 0.2840, Accuracy: 0.7667
+Epoch [ 5/ 7], Batch [ 40/481], Loss: 0.8314, Accuracy: 0.7891
+Epoch [ 5/ 7], Batch [ 50/481], Loss: 0.9110, Accuracy: 0.7975
+Epoch [ 5/ 7], Batch [ 60/481], Loss: 0.5065, Accuracy: 0.8083
+Epoch [ 5/ 7], Batch [ 70/481], Loss: 0.6732, Accuracy: 0.8116
+Epoch [ 5/ 7], Batch [ 80/481], Loss: 2.5441, Accuracy: 0.8148
+Epoch [ 5/ 7], Batch [ 90/481], Loss: 0.7765, Accuracy: 0.8208
+Epoch [ 5/ 7], Batch [100/481], Loss: 0.2339, Accuracy: 0.8250
+Epoch [ 5/ 7], Batch [110/481], Loss: 0.0979, Accuracy: 0.8313
+Epoch [ 5/ 7], Batch [120/481], Loss: 0.2312, Accuracy: 0.8365
+Epoch [ 5/ 7], Batch [130/481], Loss: 0.1389, Accuracy: 0.8380
+Epoch [ 5/ 7], Batch [140/481], Loss: 0.7150, Accuracy: 0.8424
+Epoch [ 5/ 7], Batch [150/481], Loss: 0.3758, Accuracy: 0.8492
+Epoch [ 5/ 7], Batch [160/481], Loss: 0.1741, Accuracy: 0.8539
+Epoch [ 5/ 7], Batch [170/481], Loss: 0.5656, Accuracy: 0.8574
+Epoch [ 5/ 7], Batch [180/481], Loss: 0.3268, Accuracy: 0.8573
+Epoch [ 5/ 7], Batch [190/481], Loss: 1.3112, Accuracy: 0.8556
+Epoch [ 5/ 7], Batch [200/481], Loss: 1.8023, Accuracy: 0.8534
+Epoch [ 5/ 7], Batch [210/481], Loss: 1.4448, Accuracy: 0.8518
+Epoch [ 5/ 7], Batch [220/481], Loss: 0.1832, Accuracy: 0.8543
+Epoch [ 5/ 7], Batch [230/481], Loss: 0.2479, Accuracy: 0.8541
+Epoch [ 5/ 7], Batch [240/481], Loss: 0.7406, Accuracy: 0.8536
+Epoch [ 5/ 7], Batch [250/481], Loss: 0.8217, Accuracy: 0.8545
+Epoch [ 5/ 7], Batch [260/481], Loss: 1.4720, Accuracy: 0.8562
+Epoch [ 5/ 7], Batch [270/481], Loss: 0.4356, Accuracy: 0.8549
+Epoch [ 5/ 7], Batch [280/481], Loss: 1.6595, Accuracy: 0.8542
+Epoch [ 5/ 7], Batch [290/481], Loss: 0.1511, Accuracy: 0.8539
+Epoch [ 5/ 7], Batch [300/481], Loss: 0.3042, Accuracy: 0.8550
+Epoch [ 5/ 7], Batch [310/481], Loss: 0.2655, Accuracy: 0.8546
+Epoch [ 5/ 7], Batch [320/481], Loss: 0.1736, Accuracy: 0.8553
+Epoch [ 5/ 7], Batch [330/481], Loss: 0.3986, Accuracy: 0.8570
+Epoch [ 5/ 7], Batch [340/481], Loss: 0.4642, Accuracy: 0.8583
+Epoch [ 5/ 7], Batch [350/481], Loss: 0.3208, Accuracy: 0.8600
+Epoch [ 5/ 7], Batch [360/481], Loss: 0.2378, Accuracy: 0.8608
+Epoch [ 5/ 7], Batch [370/481], Loss: 0.4219, Accuracy: 0.8618
+Epoch [ 5/ 7], Batch [380/481], Loss: 0.4087, Accuracy: 0.8620
+Epoch [ 5/ 7], Batch [390/481], Loss: 0.2512, Accuracy: 0.8627
+Epoch [ 5/ 7], Batch [400/481], Loss: 0.4306, Accuracy: 0.8638
+Epoch [ 5/ 7], Batch [410/481], Loss: 0.3065, Accuracy: 0.8645
+Epoch [ 5/ 7], Batch [420/481], Loss: 2.4627, Accuracy: 0.8638
+Epoch [ 5/ 7], Batch [430/481], Loss: 0.2939, Accuracy: 0.8641
+Epoch [ 5/ 7], Batch [440/481], Loss: 0.6335, Accuracy: 0.8635
+Epoch [ 5/ 7], Batch [450/481], Loss: 1.5909, Accuracy: 0.8638
+Epoch [ 5/ 7], Batch [460/481], Loss: 0.6461, Accuracy: 0.8647
+Epoch [ 5/ 7], Batch [470/481], Loss: 0.4809, Accuracy: 0.8648
+Epoch [ 5/ 7], Batch [480/481], Loss: 1.7599, Accuracy: 0.8637
+Epoch [ 6/ 7], Batch [ 10/481], Loss: 0.3887, Accuracy: 0.8187
+Epoch [ 6/ 7], Batch [ 20/481], Loss: 0.3307, Accuracy: 0.8219
+Epoch [ 6/ 7], Batch [ 30/481], Loss: 1.3508, Accuracy: 0.8479
+Epoch [ 6/ 7], Batch [ 40/481], Loss: 1.4975, Accuracy: 0.8406
+Epoch [ 6/ 7], Batch [ 50/481], Loss: 0.4678, Accuracy: 0.8400
+Epoch [ 6/ 7], Batch [ 60/481], Loss: 0.2922, Accuracy: 0.8396
+Epoch [ 6/ 7], Batch [ 70/481], Loss: 0.3059, Accuracy: 0.8473
+Epoch [ 6/ 7], Batch [ 80/481], Loss: 0.2506, Accuracy: 0.8508
+Epoch [ 6/ 7], Batch [ 90/481], Loss: 0.2647, Accuracy: 0.8569
+Epoch [ 6/ 7], Batch [100/481], Loss: 2.1009, Accuracy: 0.8581
+Epoch [ 6/ 7], Batch [110/481], Loss: 0.0879, Accuracy: 0.8625
+Epoch [ 6/ 7], Batch [120/481], Loss: 0.3941, Accuracy: 0.8641
+Epoch [ 6/ 7], Batch [130/481], Loss: 0.2368, Accuracy: 0.8625
+Epoch [ 6/ 7], Batch [140/481], Loss: 0.4294, Accuracy: 0.8638
+Epoch [ 6/ 7], Batch [150/481], Loss: 0.2205, Accuracy: 0.8642
+Epoch [ 6/ 7], Batch [160/481], Loss: 0.3097, Accuracy: 0.8637
+Epoch [ 6/ 7], Batch [170/481], Loss: 0.2623, Accuracy: 0.8651
+Epoch [ 6/ 7], Batch [180/481], Loss: 0.5247, Accuracy: 0.8674
+Epoch [ 6/ 7], Batch [190/481], Loss: 1.3058, Accuracy: 0.8671
+Epoch [ 6/ 7], Batch [200/481], Loss: 1.5127, Accuracy: 0.8650
+Epoch [ 6/ 7], Batch [210/481], Loss: 0.1930, Accuracy: 0.8664
+Epoch [ 6/ 7], Batch [220/481], Loss: 0.1312, Accuracy: 0.8685
+Epoch [ 6/ 7], Batch [230/481], Loss: 0.1632, Accuracy: 0.8696
+Epoch [ 6/ 7], Batch [240/481], Loss: 0.3922, Accuracy: 0.8693
+Epoch [ 6/ 7], Batch [250/481], Loss: 0.3216, Accuracy: 0.8705
+Epoch [ 6/ 7], Batch [260/481], Loss: 0.2756, Accuracy: 0.8704
+Epoch [ 6/ 7], Batch [270/481], Loss: 0.2100, Accuracy: 0.8713
+Epoch [ 6/ 7], Batch [280/481], Loss: 0.2227, Accuracy: 0.8723
+Epoch [ 6/ 7], Batch [290/481], Loss: 0.2417, Accuracy: 0.8720
+Epoch [ 6/ 7], Batch [300/481], Loss: 0.4023, Accuracy: 0.8721
+Epoch [ 6/ 7], Batch [310/481], Loss: 0.3410, Accuracy: 0.8736
+Epoch [ 6/ 7], Batch [320/481], Loss: 0.1544, Accuracy: 0.8730
+Epoch [ 6/ 7], Batch [330/481], Loss: 0.2768, Accuracy: 0.8744
+Epoch [ 6/ 7], Batch [340/481], Loss: 0.3437, Accuracy: 0.8759
+Epoch [ 6/ 7], Batch [350/481], Loss: 0.2767, Accuracy: 0.8766
+Epoch [ 6/ 7], Batch [360/481], Loss: 0.4970, Accuracy: 0.8753
+Epoch [ 6/ 7], Batch [370/481], Loss: 0.4796, Accuracy: 0.8765
+Epoch [ 6/ 7], Batch [380/481], Loss: 0.2454, Accuracy: 0.8776
+Epoch [ 6/ 7], Batch [390/481], Loss: 0.1290, Accuracy: 0.8784
+Epoch [ 6/ 7], Batch [400/481], Loss: 0.1187, Accuracy: 0.8792
+Epoch [ 6/ 7], Batch [410/481], Loss: 0.3506, Accuracy: 0.8802
+Epoch [ 6/ 7], Batch [420/481], Loss: 0.2913, Accuracy: 0.8812
+Epoch [ 6/ 7], Batch [430/481], Loss: 0.1870, Accuracy: 0.8812
+Epoch [ 6/ 7], Batch [440/481], Loss: 1.1566, Accuracy: 0.8811
+Epoch [ 6/ 7], Batch [450/481], Loss: 0.2519, Accuracy: 0.8812
+Epoch [ 6/ 7], Batch [460/481], Loss: 0.3403, Accuracy: 0.8804
+Epoch [ 6/ 7], Batch [470/481], Loss: 0.3579, Accuracy: 0.8822
+Epoch [ 6/ 7], Batch [480/481], Loss: 0.1931, Accuracy: 0.8820
+Epoch [ 7/ 7], Batch [ 10/481], Loss: 0.3138, Accuracy: 0.8938
+Epoch [ 7/ 7], Batch [ 20/481], Loss: 0.1272, Accuracy: 0.8969
+Epoch [ 7/ 7], Batch [ 30/481], Loss: 0.1235, Accuracy: 0.8958
+Epoch [ 7/ 7], Batch [ 40/481], Loss: 0.4106, Accuracy: 0.8969
+Epoch [ 7/ 7], Batch [ 50/481], Loss: 0.3128, Accuracy: 0.9012
+Epoch [ 7/ 7], Batch [ 60/481], Loss: 0.9738, Accuracy: 0.8979
+Epoch [ 7/ 7], Batch [ 70/481], Loss: 1.4314, Accuracy: 0.8946
+Epoch [ 7/ 7], Batch [ 80/481], Loss: 0.3129, Accuracy: 0.8953
+Epoch [ 7/ 7], Batch [ 90/481], Loss: 0.9437, Accuracy: 0.8931
+Epoch [ 7/ 7], Batch [100/481], Loss: 0.4547, Accuracy: 0.8850
+Epoch [ 7/ 7], Batch [110/481], Loss: 0.1202, Accuracy: 0.8875
+Epoch [ 7/ 7], Batch [120/481], Loss: 0.3033, Accuracy: 0.8818
+Epoch [ 7/ 7], Batch [130/481], Loss: 0.2664, Accuracy: 0.8827
+Epoch [ 7/ 7], Batch [140/481], Loss: 0.3872, Accuracy: 0.8808
+Epoch [ 7/ 7], Batch [150/481], Loss: 0.1281, Accuracy: 0.8817
+Epoch [ 7/ 7], Batch [160/481], Loss: 0.4303, Accuracy: 0.8805
+Epoch [ 7/ 7], Batch [170/481], Loss: 0.2661, Accuracy: 0.8801
+Epoch [ 7/ 7], Batch [180/481], Loss: 0.1866, Accuracy: 0.8799
+Epoch [ 7/ 7], Batch [190/481], Loss: 2.4057, Accuracy: 0.8770
+Epoch [ 7/ 7], Batch [200/481], Loss: 0.1437, Accuracy: 0.8778
+Epoch [ 7/ 7], Batch [210/481], Loss: 0.2060, Accuracy: 0.8792
+Epoch [ 7/ 7], Batch [220/481], Loss: 0.2498, Accuracy: 0.8795
+Epoch [ 7/ 7], Batch [230/481], Loss: 0.1263, Accuracy: 0.8826
+Epoch [ 7/ 7], Batch [240/481], Loss: 0.1739, Accuracy: 0.8839
+Epoch [ 7/ 7], Batch [250/481], Loss: 0.3931, Accuracy: 0.8852
+Epoch [ 7/ 7], Batch [260/481], Loss: 0.2242, Accuracy: 0.8865
+Epoch [ 7/ 7], Batch [270/481], Loss: 0.0836, Accuracy: 0.8889
+Epoch [ 7/ 7], Batch [280/481], Loss: 0.3519, Accuracy: 0.8888
+Epoch [ 7/ 7], Batch [290/481], Loss: 0.5095, Accuracy: 0.8905
+Epoch [ 7/ 7], Batch [300/481], Loss: 0.1544, Accuracy: 0.8923
+Epoch [ 7/ 7], Batch [310/481], Loss: 0.2141, Accuracy: 0.8942
+Epoch [ 7/ 7], Batch [320/481], Loss: 0.2300, Accuracy: 0.8953
+Epoch [ 7/ 7], Batch [330/481], Loss: 0.8559, Accuracy: 0.8966
+Epoch [ 7/ 7], Batch [340/481], Loss: 0.1979, Accuracy: 0.8983
+Epoch [ 7/ 7], Batch [350/481], Loss: 0.1923, Accuracy: 0.8995
+Epoch [ 7/ 7], Batch [360/481], Loss: 0.1724, Accuracy: 0.8998
+Epoch [ 7/ 7], Batch [370/481], Loss: 0.1314, Accuracy: 0.9007
+Epoch [ 7/ 7], Batch [380/481], Loss: 0.1889, Accuracy: 0.9020
+Epoch [ 7/ 7], Batch [390/481], Loss: 0.9545, Accuracy: 0.9024
+Epoch [ 7/ 7], Batch [400/481], Loss: 1.3569, Accuracy: 0.9034
+Epoch [ 7/ 7], Batch [410/481], Loss: 0.1899, Accuracy: 0.9044
+Epoch [ 7/ 7], Batch [420/481], Loss: 0.2993, Accuracy: 0.9042
+Epoch [ 7/ 7], Batch [430/481], Loss: 0.1600, Accuracy: 0.9057
+Epoch [ 7/ 7], Batch [440/481], Loss: 0.1263, Accuracy: 0.9064
+Epoch [ 7/ 7], Batch [450/481], Loss: 0.6850, Accuracy: 0.9067
+Epoch [ 7/ 7], Batch [460/481], Loss: 0.2773, Accuracy: 0.9064
+Epoch [ 7/ 7], Batch [470/481], Loss: 0.1629, Accuracy: 0.9073
+Epoch [ 7/ 7], Batch [480/481], Loss: 1.6922, Accuracy: 0.9070
